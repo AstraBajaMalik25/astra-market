@@ -12,10 +12,10 @@ export default function About() {
       <p>
         Semua produk kami berasal dari brand terpercaya dan berkualitas tinggi.
         Kami percaya bahwa gaya bisa menjadi cara untuk mengekspresikan diri —
-        dan CarMarket hadir untuk membantu kamu tampil percaya diri setiap hari!
+        dan Astra Market hadir untuk membantu kamu tampil percaya diri setiap hari!
       </p>
       <p>
-        📞 Hubungi kami di: <b>support@carmarket.com</b>  
+        📞 Hubungi kami di: <b>support@astramarket.co.id</b>  
         📍 Alamat: Jl. Fashion No.123, Jakarta, Indonesia
       </p>
     </div>
